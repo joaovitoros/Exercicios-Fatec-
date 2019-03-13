@@ -1,0 +1,15 @@
+Código do acidente: 1
+Nome da cidade: a
+Quantidade de acidentes: 2
+Tipo de veículo: 3
+
+Código do acidente: 2
+Nome da cidade: a
+Quantidade de acidentes: 2
+Tipo de veículo: 3
+
+Código do acidente: 1
+Nome da cidade: s
+Quantidade de acidentes: 2
+Tipo de veículo: 1
+
